@@ -1,5 +1,17 @@
-This mod provides the Nuka-World package for The Cheat Bunker and connects The Bunker to the Nuka-World world space.  As such, it requires both the Nuka-World DLC and The Cheat Bunker to be installed.  This package brings the armor and weapons from Nuka-World into The Cheat Bunker and comes with a few Quest Autocompletion options.  These options are:
- - Unlocking the Nuka-World Red Rocket settlement without completing the DLC
- - Unlocking all the Nuka-World robot workbench parts
- - Collecting all the Star Cores during the quest “Star Control”
- - Finding all the hidden clues during the quest “Cappy in a Haystack”
+Augments The Cheat Bunker with content from the Nuka-World DLC.
+
+Quest Auto-completion options:
+Unlock the Nuka-World Red Rocket settlement
+Unlock the Nuka-World robot workbench parts
+Collect all the Star Cores during “Star Control” http://fallout.wikia.com/wiki/Star_Control
+Find all hidden clues during “Cappy in a Haystack” http://fallout.wikia.com/wiki/Cappy_in_a_Haystack
+Importers: None
+Exterior space connection(s): Nuka-World
+
+Items modified for playability and/or adding a legendary effect attach point:
+All raider gang armor set head pieces
+Using a mod which edits these items will conflict with The Cheat Bunker: Nuka-World, but not in a way that prevents using both.
+
+-
+
+The Cheat Bunker: Nuka-World has been cleaned with FO4Edit.
