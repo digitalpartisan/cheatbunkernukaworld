@@ -1,3 +1,8 @@
+v1.1.0
+Added the Nuka-Cola Lunchbox and other Nuka-World souvenirs to the Nuka-World locker
+Added Fever Blossom to the collectible ingredients menu in the Workshop Resources terminal
+Added Calmex Silk to the Chems cabinet and Supply terminal
+
 v1.0.2
 Set Autocompleter availability messages to display for five seconds.
 
