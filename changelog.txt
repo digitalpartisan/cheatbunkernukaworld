@@ -1,3 +1,6 @@
+v1.2.0
+Introduced AWKCR dependency
+
 v1.1.0
 Added the Nuka-Cola Lunchbox and other Nuka-World souvenirs to the Nuka-World locker
 Added Fever Blossom to the collectible ingredients menu in the Workshop Resources terminal
