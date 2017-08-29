@@ -1,5 +1,6 @@
 v1.2.0
 Introduced AWKCR dependency
+Upgraded the package versioning and upgrade logic corresponding to changes in The Cheat Bunker v1.7.0
 
 v1.1.0
 Added the Nuka-Cola Lunchbox and other Nuka-World souvenirs to the Nuka-World locker
