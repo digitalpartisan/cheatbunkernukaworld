@@ -1,6 +1,6 @@
 [
-	"Data\\SCRIPTS\\CheatBunkerDLC04\\Autocompletion\\BotParts.pex",
 	"Data\\SCRIPTS\\CheatBunkerDLC04\\Autocompletion\\CappyHunt.pex",
 	"Data\\SCRIPTS\\CheatBunkerDLC04\\Autocompletion\\RedRocket.pex",
-	"Data\\SCRIPTS\\CheatBunkerDLC04\\Autocompletion\\StarCores.pex"
+	"Data\\SCRIPTS\\CheatBunkerDLC04\\Autocompletion\\StarCores.pex",
+	"Data\\Scripts\\CheatBunkerDLC04\\Updater\\v1_2_1_to_v1_3_0.pex"
 ]

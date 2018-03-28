@@ -1,22 +1,14 @@
-Scriptname CheatBunkerDLC04:Autocompletion:RedRocket extends cheatbunker:autocompletion Conditional
+Scriptname CheatBunkerDLC04:Autocompletion:RedRocket extends CheatBunker:Autocompletion Conditional
 
 WorkshopScript Property NukaWorldRedRocket Auto Const
 ObjectReference Property MapMarker Auto Const
 
-Bool Function playerTookOwnership()
-	return NukaWorldRedRocket.OwnedByPlayer
+Bool Function canExecuteLogic()
+	return getQuest().IsCompleted() && !NukaWorldRedRocket.OwnedByPlayer
 EndFunction
 
-Bool Function isQuestReady()
-	return MyQuest.IsRunning() || MyQuest.IsCompleted()
-EndFunction
-
-Bool Function hasWindowPassed()
-	return playerTookOwnership()
-EndFunction
-
-Function runBehavior()
+Function rexecuteBehavior()
 	NukaWorldRedRocket.SetOwnedByPlayer(true)
 	MapMarker.AddToMap(true)
-	finish()
+	conclude()
 EndFunction
