@@ -7,7 +7,7 @@ Bool Function canExecuteLogic()
 	return getQuest().IsCompleted() && !NukaWorldRedRocket.OwnedByPlayer
 EndFunction
 
-Function rexecuteBehavior()
+Function executeBehavior()
 	NukaWorldRedRocket.SetOwnedByPlayer(true)
 	MapMarker.AddToMap(true)
 	conclude()
