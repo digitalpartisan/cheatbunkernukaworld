@@ -1,5 +1,5 @@
 v1.3.0
-Updated for The Cheat Bunker v1.8.0 compatability
+Integrated Chronicle v1.0.0 in accordance with The Cheat Bunker v1.8.0 upgrade
 Removed the Nuka-World Robot Parts Auto-completion option in favor of expanded behavior in the Automatron Robot Parts Option
 
 v1.2.1
