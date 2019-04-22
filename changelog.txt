@@ -1,5 +1,9 @@
 v1.5.0
 Moved internal and external cell edits to their own layers
+Recompiled autocompletion scripts against The Cheat Bunker v1.10.0
+Made the door in and out of the Bunker a last resort for NPCs
+Implemented Nuka-World Raider gang radiant quest autocompletion options
+Fixed the incorrect player messaging settings of the Star Core autocompletion option
 
 v1.4.0
 Integrated Chronicle v1.1.0 in accordance with The Cheat Bunker v1.9.0 upgrade
