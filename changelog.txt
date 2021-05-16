@@ -1,3 +1,6 @@
+v1.6.0
+Incrememted version number and required core package 1.11.0 to support Build and Tracker development
+
 v1.5.0
 Made compatible with changes to The Cheat Bunker v1.10.0
 Implemented Nuka-World Raider gang radiant quest autocompletion options
